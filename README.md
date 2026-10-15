@@ -1,7 +1,7 @@
 # NYC Fire Hydrant Density - Streamlit Deployment
 Streamlit Deployment of analysis results in nyc-spatial-analysis. The dashboard offers a map, filters, charts and a table.
 
-[view Streamlit deployment](https://share.streamlit.io/new)
+[view Streamlit deployment](https://nyc-hydrant-density.streamlit.app/)
 
 ![Streamlit Screenshot 1](images/2.png)
 ![Streamlit Screenshot 2](images/1.png)
@@ -36,7 +36,7 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 ### Hosted dashboard 
-Hosted on Streamlit community platform: [Streamlit Deployment](https://share.streamlit.io/new/)
+Hosted on Streamlit community platform: [Streamlit Deployment](https://nyc-hydrant-density.streamlit.app/)
 
 ## Results / Visualizations
 The map displays NYC neighborhoods colored by hydrant density. Hovering or clicking opens a popup with details. A borough filter and Hydrant density slider on the left pane offer further options to interact with the webmap as opposed to nyc-hydrant-map deployment.
