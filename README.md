@@ -49,6 +49,4 @@ The map displays NYC neighborhoods colored by hydrant density. Hovering or click
 | `requirements.txt` | Stores all the requirements for running streamlit app |
 
 ## What I learned
-Modern GPT Models are very good at writing code. Using AI to build `app.py` once again showed that writing single lines of code is best outsourced to an agent, while the user should still administrate and orchestrate all systems / agents for useful decision making - or in this case: simply create a presentable repo. 
-
-Streamlit is a open source framework for displaying python apps on the web. It helped me present the analysis results in a dashboard view with filters, charts, tables and a map.
+Modern GPT Models are very good at writing code. Using AI to build `app.py` once again showed that writing single lines of code can reliably be outsourced to AI while the user should still check, administrate and orchestrate all systems / agents for useful decision making - or in this case: simply create a presentable repo. Streamlit is a open source framework for displaying python apps on the web. It helped me present the analysis results in a dashboard view with filters, charts, tables and a map.
